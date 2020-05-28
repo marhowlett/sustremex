@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Grenale2W03-NmlBd';
+    src: url('Grenale2W03-NmlBd.woff2') format('woff2'),
+        url('Grenale2W03-NmlBd.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grenale Slab Norm';
+    src: url('GrnD-NorReg.woff2') format('woff2'),
+        url('GrnD-NorReg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
