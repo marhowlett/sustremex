@@ -585,4 +585,9 @@ ol {
   #contacto p.bl2 {
     text-align: left;
   }
+  .slider h3.blanco {
+    color: white;
+    font-size: 40px;
+    line-height: 40px!important;
+  }
 }
