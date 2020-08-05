@@ -124,7 +124,7 @@ Michoacán C.P. 59697</p>
         </div>
         
         <div class="datos">
-       <p class="bl2"> <img class="so" src="<?php echo get_stylesheet_directory_uri(); ?>/img/location.png" alt="Logo"> <a href="mailto:contacto@sp2000.com.mx">contacto@sp2000.com.mx</a></p>
+       <p class="bl2"> <img class="so" src="<?php echo get_stylesheet_directory_uri(); ?>/img/location.png" alt="Logo"> <a href="mailto:ventasmichoacan@sustramex.com">ventasmichoacan@sustramex.com</a></p>
         
         </div>
        <p class="negritas">SÍGUENOS EN:</p>

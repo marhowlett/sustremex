@@ -5,7 +5,13 @@
 <section id="objetivo" class="template-section">
        <div class="contenedor">
        <h2 class="claro">NUESTROS PRODUCTOS</h2>
-       <p class="blanco">Fabricamos y distribuimos <span>sustrato de fibra de coco 100% orgánica</span> asi como <span>bolsas - maceta hidropónicas</span> de diferentes medidas,  capacidades, colores, doble capa y perforaciones de drenaje.</p>
+       <div class="grid">
+           <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/productos.jpg" alt="Logo">
+                </div>
+           <div class="col">
+       <p class="blanco">Fabricamos y distribuimos <span>sustrato de fibra de coco 100% orgánica</span> asi como <span>bolsas - maceta hidropónicas</span> de diferentes medidas,  capacidades, colores, doble capa y perforaciones de drenaje.</p></div>
+       </div>
+       
     </div>
 </section>
 <section id="fabricamos3" class="template-section">

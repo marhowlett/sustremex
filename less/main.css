@@ -341,6 +341,9 @@ ol {
   font-family: 'Grenale2W03-NmlBd';
 }
 /**ACERCA**/
+#fabricamos2 li {
+  text-align: justify;
+}
 #fabricamos2 h3 {
   text-align: center;
   font-size: 34px;
@@ -356,7 +359,7 @@ ol {
   background-color: #00531b;
 }
 #objetivo p {
-  text-align: center;
+  text-align: justify;
 }
 #objetivo p span {
   font-family: 'Grenale2W03-NmlBd';
